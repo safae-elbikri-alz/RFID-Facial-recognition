@@ -1,0 +1,1 @@
+L'adresse ip correspondante à l'option -h dans le script doit etre changer à l'adresse ip de votre serveur MQTT.
